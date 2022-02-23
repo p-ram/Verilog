@@ -25,3 +25,9 @@ module top_module();
   end
   
 endmodule
+
+/*output
+packed array[0]   = 0
+unpacked array[0] = 1
+packed array      = 10101010
+*/
